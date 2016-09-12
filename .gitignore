@@ -2,3 +2,6 @@ derby.log
 target/
 project/
 metastore_db/
+temp.scala.temp
+python_test.py
+pyspark_cassandra_timeuuid.py
